@@ -1,0 +1,50 @@
+body {
+    margin: auto;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: lightsteelblue;
+}
+h1{
+    text-align: center;
+    font-weight: bold;
+    color:brown;
+}
+h2{
+    text-align: center;
+    font-weight: lighter;
+    color: chocolate;
+}
+p{
+    text-align: justify;
+    color: black;
+    text-align: center;
+}
+img{
+    border-radius: 5%;
+
+}
+h3{
+text-align: left;
+color: brown;
+}
+ol{
+    color:black;
+}
+ul{
+    color: black;
+    margin: 10px,auto;
+}
+table{
+    border-color: gray;
+    border-radius: 5%;
+    align-items: center;
+    font: optional;clear: right;
+    background-color: aliceblue;
+}
+a{
+    color: seagreen;
+}
+form{
+color: brown;
+display: inline-block;
+background-color: aliceblue;
+}
